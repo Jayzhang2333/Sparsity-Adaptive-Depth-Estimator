@@ -1,0 +1,41 @@
+{
+    "model": {
+        "name": "SPADE",
+        "version_name": "v1",
+        "da_model_type" : "vits",
+        "inverse_relative_depth": false,
+        "img_size": [336, 448],
+        "da_pretrained_resource": "/home/jay/underwater_depth_estimation_cleaning/Weights/depth_anything_v2_vits.pth",
+        "min_pred": 0.1,
+        "max_pred":12,
+        "ga_max":12,
+        "biliteral_kernal_size" :5,
+        "sigma_s":2,
+        "sigma_r":0.001,
+        "laser_scaler":false,
+        "dat_patch_size":4,
+        "dat_stem_features":96,
+        "dat_dims": [96, 128, 256, 512],
+        "dat_depths_conv":[1,1,2,2],
+        "dat_depth_trans":[1,1,2,2],
+        "dat_stages":4
+    },
+    
+    "train": {
+        "trainer": "SPADE_v1",
+        "epochs":6,
+        "bs": 16,
+        "optim_kwargs": {"lr": 2e-4, "wd": 0.01},
+        "sched_kwargs": {"div_factor": 1, "final_div_factor": 1, "pct_start": 0.1, "three_phase":false, "cycle_momentum": true},
+        "same_lr": false,
+        "w_rmse":1,
+        "w_gradient":0.5,
+        "w_si": 1,
+        "input_width": 640,
+        "input_height": 480
+
+    },
+    "eval":{
+        "pretrained_resource" : ""
+    }
+}

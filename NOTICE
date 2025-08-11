@@ -1,0 +1,31 @@
+SPADE: Sparsity Adaptive Zero-shot Underwater Depth Estimation
+Copyright (c) 2025 Hongjie Zhang
+Licensed under the MIT License. See LICENSE file in the project root for details.
+
+---
+
+This project includes code from the following open sourced projects.
+
+1. ZoeDepth
+   Source: https://github.com/isl-org/ZoeDepth/tree/main
+   License: MIT
+   Copyright (c) 2022 Intelligent Systems Lab Org
+
+2. VI-Depth
+   Source: https://github.com/isl-org/VI-Depth/tree/main
+   License: MIT
+   Copyright (c) 2023 Intelligent Systems Lab Org
+
+3. Depth-Anything-V2
+   Source: https://github.com/DepthAnything/Depth-Anything-V2/tree/main
+   License: Apache-2.0
+   Copyright (c) 2024 Depth Anything
+
+4. DAT
+   Source: https://github.com/LeapLabTHU/DAT/tree/main
+   License: Apache-2.0
+   Copyright (c) 2022 LeapLab
+---
+
+For the full text of the Apache License, Version 2.0, see LICENSE-APACHE-2.0.txt.  
+For the full text of the MIT License, see LICENSE.

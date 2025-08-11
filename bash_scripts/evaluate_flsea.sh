@@ -1,0 +1,1 @@
+python evaluate.py -m SPADE --pretrained_resource="local::./Weights/underwater_depth_pipeline.pt" -d flsea_sparse_feature -r 10

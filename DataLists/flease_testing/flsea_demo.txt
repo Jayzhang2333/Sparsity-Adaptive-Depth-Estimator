@@ -1,0 +1,15 @@
+./example_data/rgb/16315112212148247.tiff ./example_data/gt_depth/16315112212148247_SeaErra_abs_depth.tif ./example_data/sparse_csv/16315112212148247_features.csv
+./example_data/rgb/16233052210817852.tiff ./example_data/gt_depth/16233052210817852_SeaErra_abs_depth.tif ./example_data/sparse_csv/16233052210817852_features.csv
+./example_data/rgb/16315129610008478.tiff ./example_data/gt_depth/16315129610008478_SeaErra_abs_depth.tif ./example_data/sparse_csv/16315129610008478_features.csv
+./example_data/rgb/16315955823536320.tiff ./example_data/gt_depth/16315955823536320_SeaErra_abs_depth.tif ./example_data/sparse_csv/16315955823536320_features.csv
+./example_data/rgb/16315113063217030.tiff ./example_data/gt_depth/16315113063217030_SeaErra_abs_depth.tif ./example_data/sparse_csv/16315113063217030_features.csv
+./example_data/rgb/16233045060717111.tiff ./example_data/gt_depth/16233045060717111_SeaErra_abs_depth.tif ./example_data/sparse_csv/16233045060717111_features.csv
+./example_data/rgb/16233044541765633.tiff ./example_data/gt_depth/16233044541765633_SeaErra_abs_depth.tif ./example_data/sparse_csv/16233044541765633_features.csv
+./example_data/rgb/16233045486672034.tiff ./example_data/gt_depth/16233045486672034_SeaErra_abs_depth.tif ./example_data/sparse_csv/16233045486672034_features.csv
+./example_data/rgb/16316026967750072.tiff ./example_data/gt_depth/16316026967750072_SeaErra_abs_depth.tif ./example_data/sparse_csv/16316026967750072_features.csv
+./example_data/rgb/16233045634681115.tiff ./example_data/gt_depth/16233045634681115_SeaErra_abs_depth.tif ./example_data/sparse_csv/16233045634681115_features.csv
+./example_data/rgb/16233046356807435.tiff ./example_data/gt_depth/16233046356807435_SeaErra_abs_depth.tif ./example_data/sparse_csv/16233046356807435_features.csv
+./example_data/rgb/16316027492803082.tiff ./example_data/gt_depth/16316027492803082_SeaErra_abs_depth.tif ./example_data/sparse_csv/16316027492803082_features.csv
+./example_data/rgb/16315112217091329.tiff ./example_data/gt_depth/16315112217091329_SeaErra_abs_depth.tif ./example_data/sparse_csv/16315112217091329_features.csv
+./example_data/rgb/16315129643975527.tiff ./example_data/gt_depth/16315129643975527_SeaErra_abs_depth.tif ./example_data/sparse_csv/16315129643975527_features.csv
+./example_data/rgb/16315129396993518.tiff ./example_data/gt_depth/16315129396993518_SeaErra_abs_depth.tif ./example_data/sparse_csv/16315129396993518_features.csv
