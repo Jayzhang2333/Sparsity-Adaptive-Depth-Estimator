@@ -11,7 +11,7 @@ We present SPADE (SParsity Adaptive Depth Estimator) a real-time underwater dept
 
 If you’re interested in the details, check out our arXiv paper:
 
-👉 [Link to our arXiv paper](https://arxiv.org/abs/XXXX.XXXXX)
+👉 [Link to our arXiv paper](https://arxiv.org/abs/2510.25463)
 
 
 ## Demo
