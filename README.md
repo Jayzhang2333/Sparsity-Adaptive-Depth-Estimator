@@ -136,9 +136,7 @@ If you use this work, please cite:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2510.25463}, 
 }
-
-
-
+```
 
 ## Acknowledgements
 [DepthAnythingV2](https://github.com/DepthAnything/Depth-Anything-V2)  
