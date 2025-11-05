@@ -5,7 +5,7 @@
 
 ![Methodology Diagram](asset/figures/depth_estimation_pipeline.jpg)
 
-We present SPADE (SParsity Adaptive Depth Estimator) a real-time underwater depth estimation pipeline that combines monocular relative depth estimation with sparse depth measurements to produce dense, metric scale depth maps. Our two-stage approach first scales the relative depth map, then refines the pixel-wise metric depth using a Cascade Conv-Deformable Transformer block. Our proposed method achieves improved accuracy and generalisation over state-of-the-art baselines. 
+We present SPADE (SParsity Adaptive Depth Estimator) a real-time underwater depth estimation pipeline that combines monocular relative depth estimation with sparse depth measurements to produce dense, metric scale depth maps. Our two-stage approach first scales the relative depth map, then refines the pixel-wise metric depth using a Cascade Conv-Deformable Transformer block. Our proposed method achieves improved accuracy and generalisation over state-of-the-art baselines, at the sametime, it also achieves more than 15FPS on Jetson Orin. 
 
 ## Arxiv Pre-print
 
