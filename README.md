@@ -40,21 +40,6 @@ This will run evaluation on the example data provided in this repo
 - `--save-image` – Save output images to disk.
 - `--output-image-path <DIR>` – Directory where images are saved.
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{zhang2025spadesparsityadaptivedepth,
-      title={SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments}, 
-      author={Hongjie Zhang and Gideon Billings and Stefan B. Williams},
-      year={2025},
-      eprint={2510.25463},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.25463}, 
-}
-
 Below is the evaluation table of the [FLSea dataset](https://arxiv.org/abs/2302.12772). We selected over 3,000 images including images from a close-range canyon and an open-water area with artificial structures.
 <table>
   <thead>
@@ -137,7 +122,20 @@ Below is the evaluation table of the [FLSea dataset](https://arxiv.org/abs/2302.
 <p><small><strong>Note:</strong> <strong>Bold</strong> marks the best metric; <em>*</em> indicates our re-trained VI-Depth.</small></p>
 
 
+## Citation
 
+If you use this work, please cite:
+
+```bibtex
+@misc{zhang2025spadesparsityadaptivedepth,
+      title={SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments}, 
+      author={Hongjie Zhang and Gideon Billings and Stefan B. Williams},
+      year={2025},
+      eprint={2510.25463},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.25463}, 
+}
 
 
 
