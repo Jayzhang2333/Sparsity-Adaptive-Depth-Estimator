@@ -32,7 +32,7 @@ If you’re interested in the details, check out our arXiv paper:
     ```
 
 2) Download pretrained weight:
-       - [Download pretrained model](https://drive.google.com/file/d/1V9AxrXqA7Z7z60t5PHlwGiL5IWAiNo-3/view?usp=drive_link)  
+       - [Download pretrained model](coming soon)  
        - Update path to the weight file into the /bash/evaluate_flsea.sh after 'local::'
 
 ## Evaluation
